@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node app.js"
   },
+  "files": [
+    "app.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/natehouk/tiktok-access-token-proxy.git"
