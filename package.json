@@ -9,11 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/natehouk/tiktok-access-token-proxy.git"
   },
-  "keywords": [
-    "puppeteer",
-    "timelapse",
-    "screenshot"
-  ],
   "dependencies": {
     "express": "~4.16.1",
     "node-fetch": "^3.3.0"
